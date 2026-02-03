@@ -12,7 +12,7 @@ This is a static HTML resume page for Kanishk Chandna, built using semantic HTML
 
 ## Features
 
-- **Personal Information**: Name, title, and professional summary![alt text](image.png)
+- **Personal Information**: Name, title, and professional summary!
 - **Skills Section**: List of technical skills and proficiencies
 - **Work Experience**: Professional experience displayed in a structured table
 - **Projects**: Detailed project descriptions with technologies and timelines
@@ -29,7 +29,7 @@ This is a static HTML resume page for Kanishk Chandna, built using semantic HTML
 
 ### Option 1: Clone the Repository
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/Kanishk2004/WebDev-cohort-26/tree/master/assignments/html-resume-page
 cd html-resume-page
 ```
 Then open `index.html` in your browser.
